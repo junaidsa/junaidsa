@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there 👋 I'm Junaid Sami
 
-<!--
-**junaidsa/junaidsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Full Stack Web Developer with 3+ years of experience  
+🚀 Specializing in Laravel, React, PHP & MySQL  
+🌍 Working on scalable web apps, CMS, LMS & management systems  
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- **Backend:** PHP, Laravel, Node.js  
+- **Frontend:** React, Vue 3, Blade, Bootstrap, Tailwind  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, Stripe, REST APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- Built 30+ real-world projects  
+- Experience with multi-language systems (Arabic & English)  
+- Payment gateway integration (Stripe)  
+- Role-based systems (Admin, Staff, Teacher, Student)  
+
+### 🌱 Currently Learning
+- Advanced Laravel architecture  
+- Clean code & performance optimization  
+
+### 🤝 Open To
+- Freelance projects  
+- Remote opportunities  
+- Open-source collaboration  
+
+### 📫 Contact Me
+- 💼 LinkedIn: *https://www.linkedin.com/in/junaidsami/*  
+- 📧 Email: *syed1junaidshah@gmail.com*  
+
+⚡ Fun fact: I love turning complex ideas into simple solutions.
