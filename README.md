@@ -12,7 +12,7 @@
 
 ### 💼 Experience
 - Built 30+ real-world projects  
-- Experience with multi-language systems (Arabic & English)  
+- Experience with multi-language systems  
 - Payment gateway integration (Stripe)  
 - Role-based systems (Admin, Staff, Teacher, Student)  
 
