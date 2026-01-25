@@ -1,32 +1,62 @@
-## Hi there 👋 I'm Junaid Sami
+<h1 align="center">Hi 👋, I'm Junaid Sami</h1>
+<h3 align="center">Full-Stack Web Developer | Laravel • React</h3>
 
-👨‍💻 Full Stack Web Developer with 3+ years of experience  
-🚀 Specializing in Laravel, Codeigniter 3, PHP & MySQL  
-🌍 Working on scalable web apps, CMS,LMS,POS,ERP & management systems  
+<p align="center">
+  🚀 I build scalable web applications, LMS, CMS & business systems
+</p>
 
-### 🔧 Tech Stack
-- **Backend:** PHP,Codeigniter 3 Laravel, Node.js  
-- **Frontend:** React, Vue 3, Blade, Bootstrap, Tailwind  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, Stripe, REST APIs  
+---
 
-### 💼 Experience
-- Built 30+ real-world projects  
-- Experience with multi-language systems  
-- Payment gateway integration  
-- Role-based systems
+### 🧠 About Me
+- 👨‍💻 Full-stack developer with **3+ years** of experience  
+- 🛠 Built **30+ real-world production projects**  
+- 🌍 Experience with **multi-language** & **role-based systems**  
+- 💳 Integrated **Stripe & payment gateways**  
+- ⚡ Focused on **clean code & performance**
+
+---
+
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,codeigniter,php,react,vue,mysql,aws,git,github" />
+</p>
+
+---
+
+### 🚀 What I Work On
+- Web Applications & Dashboards  
+- LMS / CMS / POS / ERP systems  
+- REST APIs & backend architecture  
+- Authentication & authorization systems  
+
+---
 
 ### 🌱 Currently Learning
 - Advanced Laravel architecture  
-- Clean code & performance optimization  
+- Scalable system design  
+- Performance optimization  
+
+---
 
 ### 🤝 Open To
 - Freelance projects  
 - Remote opportunities  
 - Open-source collaboration  
 
-### 📫 Contact Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/junaidsami/*  
-- 📧 Email: *syed1junaidshah@gmail.com*  
+---
 
-⚡ Fun fact: I love turning complex ideas into simple solutions.
+### 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/junaidsami/">
+    <img src="https://img.shields.io/badge/LinkedIn-Junaid_Sami-blue?logo=linkedin&style=flat" />
+  </a>
+  <a href="mailto:syed1junaidshah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>Turning complex ideas into simple, powerful solutions.</i>
+</p>
