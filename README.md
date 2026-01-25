@@ -1,35 +1,28 @@
-<h1 align="center">Hi 👋 I'm Junaid Sami</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
+<h2 align="center">Hi 👋 I'm Junaid Sami</h2>
+<p align="center">Full-Stack Web Developer</p>
 
 <p align="center">
-  🚀 I build scalable web applications, LMS, CMS & business systems
+  🚀 Scalable Web Apps • LMS • CMS • Business Systems
 </p>
-
----
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-### 🧠 About Me
-- 👨‍💻 3+ years of professional experience  
-- 🚀 30+ production-ready projects  
-- 🌐 Multi-language & role-based systems  
-- 💳 Stripe & payment gateway integrations  
-- ⚡ Clean code & performance-focused  
+**🧠 About**
+- 3+ years experience  
+- 30+ production projects  
+- Multi-language & role-based apps  
+- Stripe & API integrations  
 
 </td>
 <td width="40%" align="center">
 
-### ⚙️ Tech Stack
-<img src="https://skillicons.dev/icons?i=php,laravel,react,vue,nodejs,mysql,aws,git,github" />
+**⚙️ Tech**
+<img src="https://skillicons.dev/icons?i=php,laravel,react,vue,mysql,git" />
 
 </td>
 </tr>
 </table>
 
----
-
-<p align="center">
-  ⚡ <i>Turning complex ideas into simple, powerful solutions.</i>
-</p>
+<p align="center"><i>⚡ Simple code. Powerful systems.</i></p>
