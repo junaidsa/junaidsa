@@ -20,7 +20,7 @@
 </td>
 <td width="45%" align="center">
 
-### ⚙️ Tech
+### ⚙️ Tech Stack
 <img src="https://skillicons.dev/icons?i=php,laravel,react,vue,nodejs,mysql,git" />
 
 </td>
