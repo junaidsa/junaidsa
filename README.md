@@ -2,25 +2,34 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  🚀 Scalable Web Apps • LMS • CMS • Business Systems
+  🚀 I build scalable web applications, LMS, CMS & business systems
 </p>
 
 ---
 
-### ⚙️ Tech
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,vue,mysql,aws,git" />
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🧠 About Me
+- 👨‍💻 3+ years of experience  
+- 🛠 30+ production projects  
+- 🌍 Multi-language & role-based systems  
+- 💳 Stripe & payment gateways  
+- ⚡ Clean code & performance  
+
+</td>
+<td width="40%" align="center">
+
+### ⚙️ Tech Stack
+<img src="https://skillicons.dev/icons?i=php,laravel,react,vue,mysql,aws,git,github" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 💡 Highlights
-- 3+ years experience • 30+ projects  
-- Multi-language & role-based systems  
-- Rest APIs & clean architecture  
-
----
-
 <p align="center">
-  ⚡ <i>Turning complex ideas into simple solutions.</i>
+  ⚡ <i>Turning complex ideas into simple, powerful solutions.</i>
 </p>
