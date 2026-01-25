@@ -1,12 +1,6 @@
 <h2 align="center">Hi 👋 I'm <b>Junaid Sami</b></h2>
-<p align="center"><b>Full-Stack Web Developer</b></p>
-
-<p align="center">
-🚀 Scalable Web Apps • LMS • CMS • Business Systems
-</p>
 
 ---
-
 <table align="center">
 <tr>
 <td width="55%" valign="top">
