@@ -1,44 +1,35 @@
-<!-- HERO -->
-<section class="hero">
-  <h1>Hi 👋 I'm <span>Junaid Sami</span></h1>
-  <h2>Full‑Stack Web Developer</h2>
-  <p>I build scalable web applications, LMS, CMS & business systems with clean architecture and performance in mind.</p>
-  <a href="#" class="btn">View Projects</a>
-</section>
+<h1 align="center">Hi 👋 I'm Junaid Sami</h1>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-<!-- CONTENT GRID -->
-<section class="grid">
+<p align="center">
+  🚀 I build scalable web applications, LMS, CMS & business systems
+</p>
 
-  <!-- ABOUT -->
-  <div class="card">
-    <h3>🧠 About Me</h3>
-    <ul>
-      <li>✅ 3+ years of professional experience</li>
-      <li>🚀 30+ production-ready projects</li>
-      <li>🌐 Multi-language & role-based systems</li>
-      <li>💳 Stripe & payment gateway integrations</li>
-      <li>⚡ Clean code & performance-focused</li>
-    </ul>
-  </div>
+---
 
-  <!-- TECH STACK -->
-  <div class="card">
-    <h3>⚙️ Tech Stack</h3>
-    <div class="tech">
-      <i class="fab fa-php" title="PHP"></i>
-      <i class="fab fa-laravel" title="Laravel"></i>
-      <i class="fab fa-react" title="React"></i>
-      <i class="fab fa-vuejs" title="Vue"></i>
-      <i class="fab fa-node-js" title="Node.js"></i>
-      <i class="fab fa-aws" title="AWS"></i>
-      <i class="fab fa-git-alt" title="Git"></i>
-      <i class="fab fa-github" title="GitHub"></i>
-    </div>
-  </div>
+<table>
+<tr>
+<td width="60%" valign="top">
 
-</section>
+### 🧠 About Me
+- 👨‍💻 3+ years of professional experience  
+- 🚀 30+ production-ready projects  
+- 🌐 Multi-language & role-based systems  
+- 💳 Stripe & payment gateway integrations  
+- ⚡ Clean code & performance-focused  
 
-<!-- FOOTER -->
-<div class="footer">
-  ⚡ Turning complex ideas into simple, powerful solutions.
-</div>
+</td>
+<td width="40%" align="center">
+
+### ⚙️ Tech Stack
+<img src="https://skillicons.dev/icons?i=php,laravel,react,vue,nodejs,mysql,aws,git,github" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  ⚡ <i>Turning complex ideas into simple, powerful solutions.</i>
+</p>
