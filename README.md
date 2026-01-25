@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 I'm <b>Junaid Sami</b></h2>
-
+<p align="center">Full Stack Developer</p>
 ---
 <table align="center">
 <tr>
@@ -9,7 +9,7 @@
 - **3+ years** experience  
 - **30+** production projects  
 - Multi-language & role-based apps  
-- Stripe & API integrations  
+- Payment gateway & API integrations  
 
 </td>
 <td width="45%" align="center">
